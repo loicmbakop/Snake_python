@@ -2,6 +2,8 @@ import pygame
 import time
 from pygame.locals import *
 
+#added comment"
+
 def draw_block():
     
     surface.fill((92,25,84))
